@@ -1,1 +1,1 @@
-# spatial_data_statistics_book
+『Rによる空間データの統計分析』練習用
